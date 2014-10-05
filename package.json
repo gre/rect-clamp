@@ -1,0 +1,24 @@
+{
+  "name": "rect-clamp",
+  "version": "0.0.0",
+  "description": "Constraint a Rectangle into another by preserving the ratio.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gre/rect-clamp"
+  },
+  "keywords": [
+    "rect",
+    "rectangle",
+    "2d",
+    "bound",
+    "clamp",
+    "constraints"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/rect-clamp/issues"
+  },
+  "homepage": "https://github.com/gre/rect-clamp"
+}
